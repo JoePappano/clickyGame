@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Geenie",
+      "url": "https://img.sharetv.com/shows/characters/thumbnails/aladdin.genie.jpg",
+      "count": false
+    },
+    {
+      "id": 2,
+      "name": "Donald Duck",
+      "url": "http://images2.fanpop.com/images/photos/6300000/Donald-Duck-Icon-donald-duck-6370527-200-200.jpg",
+      "count": false 
+    },
+    {
+      "id": 3,
+      "name": "Jasmine",
+      "url": "http://images6.fanpop.com/image/photos/39800000/Princess-Jasmine-walt-disney-characters-39829461-200-200.png",
+      "count": false
+    },
+    {
+      "id": 4,
+      "name": "Tinkerbell",
+      "url": "http://d1nr5wevwcuzuv.cloudfront.net/product_photos/58350915/3_200sq.png" ,
+      "count": false
+    },
+    {
+      "id": 5,
+      "name": "Mickey Mouse",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/file_b5568439.jpeg?width=200&region=0%2C0%2C2000%2C2000&quality=8" ,
+      "count": false
+    },
+    {
+      "id": 6,
+      "name": "Jiminy Cricket",
+      "url": "http://i834.photobucket.com/albums/zz270/AvroArrowRL201/Avatars/fav_animated_disney_chars_av_zpsd4opszzc.jpg" ,
+      "count": false
+    },
+    {
+      "id": 7,
+      "name": "Winnie the Pooh",
+      "url": "https://i.ebayimg.com/thumbs/images/g/nGgAAOSwESRb2qTW/s-l200.jpg" ,
+      "count": false
+    },
+    {
+      "id": 8,
+      "name": "Simba",
+      "url": "http://images6.fanpop.com/image/photos/37700000/Simba-icon-walt-disney-characters-37707624-200-200.png" ,
+      "count": false
+    },
+    {
+      "id": 9,
+      "name": "Cinderella",
+      "url": "https://files.tengaged.com/img_p/8577894.jpg?c=0" ,
+      "count": false
+    },
+    {
+      "id": 10,
+      "name": "Eeyore",
+      "url": "https://us.toluna.com/dpolls_images/2018/04/08/ed338d40-e73d-4828-8e5a-32537334f42d_x400.jpg" ,
+      "count": false
+    },
+    {
+      "id": 11,
+      "name": "Goofy",
+      "url": "https://i.pinimg.com/236x/ec/bc/72/ecbc72366f72db349069ec07f506d643--goofy-disney-disney-fan.jpg" ,
+      "count": false
+    },
+    {
+      "id": 12,
+      "name": "Pluto",
+      "url": "https://malanenewman.com/tutorials/pluto_fullface_final.gif" ,
+      "count": false
+    },
+    {
+      "id": 13,
+      "name": "Minnie",
+      "url": "https://i1.wp.com/disneynews.us/wp-content/uploads/2018/04/l6248_6252_Minnie-Mouse-Plush-Stuffed-Animal-Pink.jpg?resize=200%2C200&ssl=1" ,
+      "count": false
+    },
+    {
+      "id": 14,
+      "name": "Scar",
+      "url": "https://www.listchallenges.com/f/items/0a109cc7-ba18-43a1-8ed4-7b15652853f3.jpg" ,
+      "count": false
+    },
+    {
+      "id": 15,
+      "name": "Bambi",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa3u3Q2SvT5ni3MJmX05o6QE03pd9CoXGhnMSG7ne19Jr_Ofto4g" ,
+      "count": false
+    }
+  ]
